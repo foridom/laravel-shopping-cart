@@ -1,5 +1,5 @@
 {
-  "name": "ibrand/laravel-shopping-cart",
+  "name": "foridom/laravel-shopping-cart",
   "description": "Shopping cart for Laravel Application.",
   "keywords": [
     "shopping cart",
@@ -9,7 +9,7 @@
   "authors": [
     {
       "name": "shjchen",
-      "email": "ibrand.shjchen@foxmail.com"
+      "email": "henbuhai@hotmail.com"
     }
   ],
   "require": {

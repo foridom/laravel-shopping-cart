@@ -507,6 +507,8 @@ class Cart
             'price' => $price,
             'total' => $qty * $price,
             '__model' => $this->model,
+            'created_at' => date('Y-m-d H-i-s', time()),
+            'updated_at' => date('Y-m-d H-i-s', time()),
         ], $attributes));
     }
 

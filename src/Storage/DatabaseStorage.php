@@ -28,7 +28,7 @@ class DatabaseStorage implements Storage
     /**
      * @var array
      */
-    private $filed = ['__raw_id', 'id', 'name', 'qty', 'price', 'total', '__model', 'type', 'status'];
+    private $filed = ['__raw_id', 'id', 'name', 'qty', 'price', 'total', '__model', 'type', 'status', 'created_at', 'updated_at'];
 
     /**
      * @param $key
